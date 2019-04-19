@@ -18,5 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "HDCategoryKit/Classes/*.{h,m}"
+  "source_files": "HDCategoryKit/*.{h,m}"
 }
