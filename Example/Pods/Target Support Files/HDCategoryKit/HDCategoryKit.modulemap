@@ -1,0 +1,6 @@
+framework module HDCategoryKit {
+  umbrella header "HDCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
