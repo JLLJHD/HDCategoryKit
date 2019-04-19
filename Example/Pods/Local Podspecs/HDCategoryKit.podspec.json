@@ -1,7 +1,7 @@
 {
   "name": "HDCategoryKit",
   "version": "0.1.0",
-  "summary": "A short description of HDCategoryKit.",
+  "summary": "分类pod管理",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/JLLJHD/HDCategoryKit",
   "license": {
@@ -18,5 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "HDCategoryKit/Classes/**/*"
+  "source_files": "HDCategoryKit/Classes/*.{h,m}"
 }
